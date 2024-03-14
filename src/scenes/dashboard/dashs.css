@@ -1,0 +1,48 @@
+/* @media only screen and (max-width: 320px) {
+  
+} */
+@media only screen and (min-width: 320px) and (max-width: 425px) {
+  .MuiBox-root.css-0 {
+    font-size: 2px;
+  }
+  h5.MuiTypography-root.MuiTypography-h5.css-jxw2ii-MuiTypography-root {
+    display: none;
+  }
+  h4.MuiTypography-root.MuiTypography-h4.css-arf7ms-MuiTypography-root {
+    font-size: 10px;
+  }
+  .MuiBox-root.css-gng4rj,
+  .MuiBox-root.css-4wtcsl,
+  .MuiBox-root.css-18ymk61,
+  .MuiBox-root.css-efslhm {
+    display: none;
+  }
+  h5.MuiTypography-root.MuiTypography-h5.css-1wkdjm8-MuiTypography-root {
+    font-size: 11px;
+  }
+  button.MuiButtonBase-root.MuiButton-root.MuiButton-text.MuiButton-textPrimary.MuiButton-sizeMedium.MuiButton-textSizeMedium.MuiButton-root.MuiButton-text.MuiButton-textPrimary.MuiButton-sizeMedium.MuiButton-textSizeMedium.css-t3xp8s-MuiButtonBase-root-MuiButton-root {
+    width: 20px;
+  }
+  button.MuiButtonBase-root.MuiButton-root.MuiButton-text.MuiButton-textPrimary.MuiButton-sizeMedium.MuiButton-textSizeMedium.MuiButton-root.MuiButton-text.MuiButton-textPrimary.MuiButton-sizeMedium.MuiButton-textSizeMedium.css-t3xp8s-MuiButtonBase-root-MuiButton-root {
+    font-size: 5px;
+  }
+  /* .MuiBox-root.css-mogpl6 {
+    display: none;
+  } */
+  .MuiBox-root.css-1forljh {
+    display: none;
+  }
+  rect,
+  svg,
+  h5.MuiTypography-root.MuiTypography-h5.css-se4u67-MuiTypography-root,
+  .MuiBox-root.css-d0ce9k {
+    display: none;
+  }
+  .MuiBox-root.css-mogpl6 {
+    width: fit-content;
+  }
+
+  .MuiBox-root.css-8oa1wg {
+    display: none;
+  }
+}
